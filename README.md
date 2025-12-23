@@ -33,7 +33,7 @@ requirements.txt
 Python dependencies.
 
 Setup
-1) Create an environment (optional but recommended)
+Create an environment (optional but recommended)
    python -m venv .venv
 # Windows:
 .venv\Scripts\activate
