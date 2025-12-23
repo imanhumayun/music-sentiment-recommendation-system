@@ -13,27 +13,22 @@ Gradio interface
 
 Repository Contents
 
-* 
+
 music_analyzer.py
 Main training script. Loads data, creates labels, trains models, and saves artifacts needed by the apps.
 
-* 
 streamlit_app.py
 Streamlit dashboard for interactive predictions and analytics.
 
-* 
 flask_app.py
 Flask web application with a built-in HTML UI and prediction endpoints.
 
-* 
 gradio_app.py
 Gradio interface for quick testing of sentiment and emotion prediction.
 
-* 
 music_sentiment_recommendation_system - Copy.ipynb
 Notebook version of the full project.
 
-* 
 requirements.txt
 Python dependencies.
 
