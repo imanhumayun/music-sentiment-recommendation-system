@@ -70,6 +70,8 @@ python gradio_app.py
 Then open the local address shown in your terminal (typically http://127.0.0.1:7860).
 
 Input Features Used
+
+
 The models use these audio features:
 
 * danceability
@@ -138,7 +140,6 @@ Use Cases
 * Music Production: Emotion-aware composition tools
 * Research: Music psychology and emotion studies
 
-Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
